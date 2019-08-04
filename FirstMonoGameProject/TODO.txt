@@ -1,0 +1,10 @@
+﻿########### TODO #############
+
+[D] Stop velocity increasing at the side of the window.
+[D] Add bouncing off of walls.
+[] Stop creeping.
+[IP] Add a max speed.
+[] Remove vertical velocity.
+[] Add gravity.
+[] Add ability to jump.
+[] Add object to jump onto.
